@@ -23,7 +23,7 @@ steps to try NLP Vaccine Analysis
 Boom!! The NLP Vaccine Analysis website will be running on http://127.0.0.1:5000/
 
 ## In the webpage
-Select the state from the dropdown and click on the button *Get the selected State Analysis* to get * A bar graph for distribution of sentiments*, 
+Select the state from the dropdown and click on the button *Get the selected State Analysis* to get *A bar graph for distribution of sentiments*, 
 *composition of Emotions*  and *Composition of Behaviour* through pie charts and a wordcloud for the selected state
 
 # What's next for NLP Vaccine Analysis
