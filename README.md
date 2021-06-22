@@ -20,6 +20,7 @@ steps to try NLP Vaccine Analysis
 3. git checkout dev_Main
 4. pip3 install -r requirements.txt
 5. python3 app.py
+
 Boom!! The NLP Vaccine Analysis website will be running on http://127.0.0.1:5000/
 
 ## In the webpage
